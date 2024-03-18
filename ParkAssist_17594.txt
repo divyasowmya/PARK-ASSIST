@@ -1,0 +1,1 @@
+Display available parking spots on a map interface in the vehicle's infotainment system
